@@ -4,6 +4,6 @@
 MACS 30100: Machine Learning and Computational Modeling
 
 This repository contains projects and assignments completed for MACS 30100 at the University of Chicago. 
-The course introduces fundamental machine learning methods and their applications to cognitive science and data analysis. 
+The course introduces fundamental machine learning methods and their applications to social science data analysis. 
 Topics include supervised and unsupervised learning, feature representation, clustering, neural networks, and natural language processing. 
 Assignments involve implementing models in Python, performing exploratory data analysis, and evaluating model performance on real-world datasets.
