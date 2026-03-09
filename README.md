@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6DfJtidB)
 # Machine Learning for Computational Social Science (2026 Winter)
 
-MACS 30100: Machine Learning and Computational Modeling
+MACS 30100: Machine Learning for Computational Social Science 
 
 This repository contains projects and assignments completed for MACS 30100 at the University of Chicago. 
 The course introduces fundamental machine learning methods and their applications to social science data analysis. 
